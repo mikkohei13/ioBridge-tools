@@ -1,0 +1,9 @@
+<?php
+
+$setServer = "IP ADDRESS";
+$setDB = "iobridge";
+$setCollection = "data";
+
+$apikey = "API KEY";
+
+?>
