@@ -115,10 +115,10 @@ require_once "include/chart.php";
 $body .= "</div>";
 
 $body .= "<p id=\"chartlinks\">Larger chart with  
-<a href=\"http://joutsen.luomus.fi/iobridge/chart.php?measurements=144\">144</a> &#8226; 
-<a href=\"http://joutsen.luomus.fi/iobridge/chart.php?measurements=300\">300</a> &#8226; 
-<a href=\"http://joutsen.luomus.fi/iobridge/chart.php?measurements=600\">600</a> &#8226; 
-<a href=\"http://joutsen.luomus.fi/iobridge/chart.php?measurements=1200\">1200</a> 
+<a href=\"chart.php?measurements=144\">144</a> &#8226; 
+<a href=\"chart.php?measurements=300\">300</a> &#8226; 
+<a href=\"chart.php?measurements=600\">600</a> &#8226; 
+<a href=\"chart.php?measurements=1200\">1200</a> 
 datapoints
 </p>";
 
